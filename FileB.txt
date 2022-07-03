@@ -1,1 +1,2 @@
- "This is fileB -version1" 
+ "This is fileB -version1
+ this is new line added " 
